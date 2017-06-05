@@ -1,0 +1,23 @@
+<% include header %>
+
+<h1><a href="/">M A S </a></h1>
+
+
+<h2><%- categorieen[id] %></h2>
+
+<% for (var i = 0; i < items.length; i++) { %>
+<% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
+
+    <h4><%- items[i].titel2 %></h4>
+
+        <img src="/img/<%- items[i].afbeeldingi %>">
+    <section>
+        <p>
+          <%- items[i].body %>
+        </p>
+    </section>
+  <% } %>
+<% } %>
+
+
+<% include footer %>

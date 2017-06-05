@@ -1,0 +1,69 @@
+{
+    "museum":
+    [
+      {
+          "titel": "MAS",
+          "titel2":"MAS",
+          "id": 212,
+          "categorieen": "",
+          "body": "",
+          "afbeeldingi": "mas.jpg"
+      },
+        {
+            "titel": "Inside",
+            "titel2":"Inside",
+            "id": 212,
+            "categorieen": ["ABOUT"],
+            "body": "<p>Antwerp is a city on a river with a port, that has provided encounters and exchanges for centuries. The MAS collects traces of those exchanges and tells new stories with them. Stories about the city, the river and the port. Stories about the world in all its diversity. Stories about Antwerp’s alliance with the world. Become acquainted with Antwerp in the world and with the world in Antwerp.</p><p>The MAS radiates water. You notice that as soon as you approach the museum; rippling glass, reflections in the water, and on the roof you can see how the Scheldt River connects Antwerp to the world. It is also a huge, contemporary storehouse inspired by the 19th-century depots that are typical of this neighbourhood. The Boulevard leads you past all the galleries. Along the way you’ll discover the giant mosaic by Luc Tuymans on the museum square. A breathtaking panorama of Antwerp awaits you at the top.</p><p>The city and the world meet in the MAS. As a city on a river, Antwerp has attracted people from all over the world for centuries. Throughout the centuries, people met exchanging ideas and goods. Traces of these encounters are collected in the MAS. The MAS guarantees surprising encounters between people, objects and stories. It is a magnet for visitors from all over the world.</p>",
+            "afbeeldingi": "inside1.jpg"
+        },
+        {
+            "titel": "Museum",
+            "titel2":"ENCOUNTERS/ONTMOETNGEN. OVER KUNST EN EMOTIE.",
+            "id": 310,
+            "categorieen": ["GOING ON NOW"],
+            "body": "<p>'Encounters / Ontmoetingen. Over kunst en emotie’ toont dat kunst geen uitleg nodig heeft om ons te raken of te veranderen. Kunst doet iets met een mens, beklijft, geeft nieuwe inzichten... Dat was vroeger al zo en is nu nog altijd. Ongeacht de voorkennis van de bezoeker.Het MAS en het Koninklijke Museum voor Schone Kunsten Antwerpen werken samen voor deze vernieuwende expo. </p><p>De werken in 'Encounters/ Ontmoetingen' zijn niet traditioneel tentoongesteld maar gegroepeerd in clusters die eenzelfde universele ervaring teweegbrengen bij de toeschouwer. Om de beleving onbevangen te houden, hangt er geen tekst of uitleg bij de kunstwerken. Het enige wat je als toeschouwer meekrijgt, zijn de namen van de werken en de kunstenaars.  Curator Paul Vandenbroeck (KMSKA) selecteerde een honderdtal werken van over de hele wereld, van de vroege oudheid tot nu, van bekende en minder bekende kunstenaars. Met werk van onder meer Francisco Goya, Rona Pondick, Dosso Dossi, Adriano Cecioni…</p><p>Choreografe en danseres Pé Vermeersch creëert in de expo performances van wisselende aard met enkele markante internationale dansers (Naoka Uemura, Angela Babuin, Mirella Solis, Rebecca Rosseel, Ilya Krouglikov, Anna Lanes Lawson, Mira Walschot, Hanne Schillemans en Federico Ordonez). Het dansproces is zelf een kunstwerk in wording.</p>",
+            "afbeeldingi": "museum.jpg"
+        },
+        {
+            "titel": "Antwerp city",
+            "titel2":"Antwerp city",
+            "id": 198,
+            "categorieen": ["VIEWS"],
+            "body": "<p>As you go up, you can enjoy an incredible view of the city from every level, and even more so on the roof terras and the access to the roof terras is free!</p>",
+            "afbeeldingi":"Antwerp2.jpg"
+        },
+        {
+            "titel": "Antwerp city",
+            "titel2":"Antwerp city",
+            "id": 198,
+            "categorieen": [""],
+            "body": "<p>As you go up, you can enjoy an incredible view of the city from every level, and even more so on the roof terras and the access to the roof terras is free!</p>",
+            "afbeeldingi":"antwerp1.jpg"
+        },
+        {
+            "titel": "Antwerp city",
+            "titel2":"Antwerp city",
+            "id": 198,
+            "categorieen": [""],
+            "body": "<p>As you go up, you can enjoy an incredible view of the city from every level, and even more so on the roof terras and the access to the roof terras is free!</p>",
+            "afbeeldingi":"antwerp.jpg"
+        },
+        {
+            "titel": "Schelde",
+            "titel2":"Schelde",
+            "id": 198,
+            "categorieen": ["VIEWS"],
+            "body": "<p>Romans, Vikings, the Spanish, Napoleon; they all understood the strategic importance of the Scheldt. Thanks to its location to the river, Antwerp has become what it is today: a metropolis with an international seaport. “All an Antwerper has to do to connect with the rest of the world is simply dip his hand into the Scheldt's water,” former mayor Lode Craeybeckx once said. Thanks to the Scheldt, ships, for centuries, have brought the most diverse products from the farthest corners of the world to Antwerp and for every cargo a ship is available for any destination in the world.</p>",
+            "afbeeldingi":"schelde.jpg"
+        },
+        {
+            "titel": "Eilandje",
+            "titel2":"Eilandje",
+            "id": 198,
+            "categorieen": ["VIEWS"],
+            "body": "Het Eilandje – ‘The Little Island’ – is so-called for good reason: Antwerp’s oldest port area is surrounded by water. Today, port activity is more concentrated in the north, but the feeling of a port is still very much present. Savour the historical atmosphere of the old loading dock with its monumental warehouses, lanterns, hangars and cobblestones. Three major attractions, MAS | Museum aan de Stroom, the Red Star Line Museum and the Port House, have once again drawn attention to the links between the city and the water.",
+            "afbeeldingi":"Eilandje.jpg"
+        }
+    ]
+}

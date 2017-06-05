@@ -1,0 +1,173 @@
+body {
+  font-family: 'Avenir';
+  width: 90%;
+  margin: 25px auto;
+  line-height: 1.4em;
+  background-image: url("/img/sky.jpg");
+  background-position: top;
+}
+
+section {
+    background-color: white;
+    opacity: 0.60;
+    padding: 5%;
+    margin: 10% 7% 20% 7%;
+  }
+
+img {
+  max-width: 100%;
+  margin: 1% 7% 1% 7%;
+  width: 86%;
+}
+
+p {
+  margin: 5% auto 2% 7%;
+  font-size: 1.1em;
+}
+h1 {
+  font-size: 6em;
+  font-weight: bold;
+  margin: 10% auto 5% auto;
+  padding: 5%;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin: 10% 7% 5% 7%;
+  font-weight: bold;
+  color: coral;
+  opacity: 0.80;
+  text-align: center;
+}
+
+span {
+  font-weight: 500;
+}
+h3 {
+  font-size: 1.8em;
+  margin: auto auto auto 6.6%;
+}
+h4 {
+  size: 1.2em;
+  margin: 10% 10% 5% 7%;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+
+}
+nav {
+  margin: 10% 7% 10% 7%;
+  color: black;
+  display: flex;
+  font-size:1em;
+  display: block;
+  justify-content: space-between;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  opacity: 0.60;
+}
+
+nav a {
+  display: block;
+  justify-content: space-between;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-size: 1em;
+  text-align: center;
+  color: black;
+  padding: 3%;
+  background-color: white;
+
+}
+
+nav a:hover {
+  background-color: coral;
+}
+.footer {
+  border-top: 1px solid black;
+  padding: 5% 0 0 0;
+  margin: auto;
+}
+
+form {
+    margin: 10% auto 10% auto;
+    width: 100%;
+    padding:5%;
+    overflow: hidden;
+    opacity:0.60;
+    border-radius: 4px;
+}
+textarea{
+	  background: white;
+    width: 60%;
+    border: 1px solid rgba(255,255,255,.6);
+    border-radius: 4px;
+    display:block;
+    font-family: 'Avenir';
+    font-size:18px;
+    color:white;
+    padding: 5%;
+    margin: 1% auto 5% 7%;
+
+}
+
+input {
+  width: 59%;
+    background-color: white;
+    border: 1px solid coral;
+    border-radius: 4px;
+    display:block;
+    font-family: 'Avenir';
+    font-size:1em;
+    color: black;
+    padding: 2%;
+    margin: 5% auto 5% 7%;
+}
+
+input[type=submit] {
+    cursor:pointer;
+}
+
+input.name, input.email, input.message {
+ background-color: white;
+ color: black;
+ padding-left:7%;
+ border: black;
+}
+#zoekbalk {
+  width: 80%;
+}
+
+.btn {
+  width: 70%;
+ border-radius: 4px;
+ border: black;
+ background: black;
+ padding: 10.5px 21px;
+ color: white;
+}
+
+.btn:hover {
+    border: 1px solid #253737;
+    background-color: white;
+    color: coral;
+ }
+
+.btn:active {
+    margin-top:1px;
+    border: 1px solid #253737;
+    background: black;
+    color: #fff;
+   }
+
+#disqus_thread {
+  margin: 7%;
+  background-color: coral;
+  padding: 10%;
+  border-radius: 4px;
+  opacity: 0.90;
+}

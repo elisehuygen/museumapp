@@ -1,0 +1,31 @@
+<% include header %>
+
+
+
+<h1>M A S</h1>
+<h3>Museum Aan de Stroom</h3>
+<nav>
+  <% for (var i = 0; i < categorieen.length; i++) { %>
+    <a href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+  <% } %>
+  <a href="/contact">CONTACT</a>
+  <a href="/comment">COMMENT</a>
+</nav>
+
+<h2>See different views</h2>
+<input type="text" id="zoekbalk"  placeholder="type a perspective" title="images">
+<table id="zoeken">
+  <% var teller = 1; %>
+  <% museum.forEach(function(item){ %>
+    <div class="afb" id=<%- item.titel %>>
+
+        <p class="naam"><%- item.titel %></p>
+        <img src="/img/<%- item.afbeeldingi %>" alt="<%- item.titel %>">
+
+
+    </div>
+    <% teller++;}); %>
+
+</table>
+
+<% include footer %>
